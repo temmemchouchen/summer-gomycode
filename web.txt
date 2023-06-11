@@ -1,0 +1,33 @@
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>my description</title>
+</head>
+<body style="background-color: rgb(241, 250, 215);">
+    <h1 style="text-align: center;">about me</h1>
+    <table style="width:100%;">
+        <tr>
+            <th><a name="home">home</a></th>
+            <th><a name="About">about</a></th>
+            <th><a name="Work">work</a></th>
+            <th><a name="Resume">resume</a></th>
+            <th><a name="Contact">contact</a></th>
+        </tr>
+    </table>
+    <h3>About</h3>
+    <p>i'm someone who like to learn everything even if i'm handicapped</p>
+    <img src="IMG_20170109_074635_748.jpg" alt="no img found" width="200" height="250">
+
+    <h3>Work</h3>
+    <p><a href="https://www.facebook.com/profile.php?id=100086484704826">tecno informatics</a></p>
+    <img src="T-XCV.jpgT" alt="no img found">
+
+    <h3>Resume</h3>
+    <iframe bvg src="https://www.youtube.com/watch?v=3FFyJI5FPWE" frameborder="0"></iframe>
+    <p>learning IT is like playing a game</p>
+    
+    <h3>Contact</h3>
+    <p>tel : 20086338</p>
+    <p><a href="https://www.facebook.com/temmem.chouchen/">Facebook</a></p>
+</body>
+</html>
